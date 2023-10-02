@@ -1,0 +1,17 @@
+{
+  "name": "final-assessment",
+  "version": "1.0.0",
+  "description": "Test your skills gained this term by solving this problem.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-date-fairy": "^1.2.2",
+    "stringamabob": "^1.0.1"
+  }
+}
